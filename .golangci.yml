@@ -15,7 +15,7 @@ linters-settings:
   lll:
     line-length: 140
   goimports:
-    local-prefixes: github.com/go-faster/hostperf
+    local-prefixes: github.com/go-faster/hostbench
   gocritic:
     enabled-tags:
       - diagnostic
